@@ -1,0 +1,2 @@
+# letsgossip-api
+letsgossip-backend
